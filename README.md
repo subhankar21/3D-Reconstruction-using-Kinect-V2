@@ -1,17 +1,28 @@
 # 3D-Reconstruction-using-Kinect-V2
 <br>
 <br>
-*Example 1*
+
+#### The objective of the project is to perform 3D reconstruction from depth and RGB images using a pair of Kinect V2 camera. 
+
+<img src=Results/final_2.png align="right" width = 300>
+<img src=Results/final_2_1.png align="right" width = 300>
+
 
 <br>
-
-#### Image segmentation to obtain the pattern of the image which is captured low-resolution and intially printed on aluminium foil
-
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### Description
-Implementation of SLIC proposed in (IEEE Transactions on Pattern Analysis and Machine Intelligence) for segmenting and detecting the pattern:<br>
+We assume that a set of image correspondences are given where these correspondences arrives from a unknown set of 3D points. Likewise the cameras calibration, orientation and position are also unknown. The primary task of such problem is to solve reconstruction problem by finding the camera matrices and 3D points to finally reconstruct from depth and RGB images.
+<br>
 <br>
 
 ### When to use this algorithm?
