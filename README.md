@@ -1,1 +1,1 @@
-# D-Reconstruction-using-Kinect-V2
+# 3D-Reconstruction-using-Kinect-V2
