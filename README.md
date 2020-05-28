@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<img src=final_2.png align="right" width = 300>
+<img src=left_2.png align="right" width = 300>
 <br>
 
 #### Image segmentation to obtain the pattern of the image which is captured low-resolution and intially printed on aluminium foil
