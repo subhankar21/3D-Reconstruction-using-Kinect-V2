@@ -10,8 +10,8 @@
 <br>
 <br>
 
-<img src=Results/right 2_2.png align="right" width = 300>
-<img src=Results/left_2.png align="right" width = 300>
+<img src=Results/final_2.png align="right" width = 300>
+<img src=Results/final_2_1.png align="right" width = 300>
 
 <br>
 <br>
