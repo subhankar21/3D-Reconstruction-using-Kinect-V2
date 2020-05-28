@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<img src=left_2.png align="right" width = 300>
+![Example_1](https://github.com/subhankar21/D-Reconstruction-using-Kinect-V2/tree/master/Results/final_1.png)
 <br>
 
 #### Image segmentation to obtain the pattern of the image which is captured low-resolution and intially printed on aluminium foil
